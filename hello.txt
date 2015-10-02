@@ -1,2 +1,2 @@
 print("Hello my freind;")
-print("Its my Life")
+print("Its my Life;")
