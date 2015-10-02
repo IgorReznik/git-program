@@ -1,2 +1,5 @@
+
 print("Hello my freind;")
 print("Its my Life;")
+print("привет;")
+
